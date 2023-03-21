@@ -6,7 +6,7 @@ Boa parte do código do Projeto foi **reutilizado** por mim, @czargab18, ao entr
 
 ## ***Importante***
 - link para visualizar o projeto no Overleaf. [Click em mim](https://www.overleaf.com/read/sfgpdmpbjchb).
-Não será possível editar. *Essa opção não foi habilitada*, por mim, *à terceiros*.
+- Não será possível editar. *Essa opção não foi habilitada*, por mim, *à terceiros*.
 
 ## **Objetivo**
 - Resolvi fazer este modelo para ter **menos problemas com formatação de trabalhos** futuros. Acredito que muitos do curso!
