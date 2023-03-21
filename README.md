@@ -1,4 +1,4 @@
-# Modelo de Trabalho de Conclusão de Curso
+# Modelo de Trabalho de Conclusão de Curso em LaTeX.
 
 
 Este modelo de Trabalho de Conclusão de Curso feito, dentro do Editor de código LaTeX chamado de Overleaf. <br>
