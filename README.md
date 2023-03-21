@@ -12,4 +12,4 @@ Boa parte do código do Projeto foi **reutilizado** por mim, @czargab18, ao entr
 
 - *Primeiro:* Algumas coisas serão alteradas. Esqueci de remover pequenos detalhes (hahaha)!
 - *Segundo:* Não sei muito bem LaTeX. Boa parte do código, foi realiza com ajuda do buscador da Microsoft, [Bing.com](https://www.bing.com/), e [ChatGPT](https://openai.com/blog/chatgpt), da OpenAI.
-Ambas as ferramentas utilizam IA (Inteligencia Artificial), mas ainda estão em desenvolvimento.
+Ambas as ferramentas utilizam IA (Inteligencia Artificial). Mas ainda estão em desenvolvimento.
