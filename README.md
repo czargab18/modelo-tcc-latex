@@ -2,7 +2,7 @@
 
 
 Este modelo de Trabalho de Conclusão de Curso feito, dentro do Editor de código LaTeX chamado de Overleaf. <br>
-Boa parte do Projerto foi **reutilizado** por mim, @czargab18, ao entregar o Trabalho final da Disciplina de Estatistica Exploratória ensinada pela professora Juliana Betini.
+Boa parte do código do Projeto foi **reutilizado** por mim, @czargab18, ao entregar o Trabalho final da Disciplina de Estatistica Exploratória. A professora Juliana Betin foi responsavel por elaborar o código.
 
 ## **Objetivo**
 - Resolvi fazer este modelo para ter **menos problemas com formatação de trabalhos** futuros. Acredito que muitos do curso!
